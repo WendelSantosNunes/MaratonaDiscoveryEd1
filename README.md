@@ -1,1 +1,1 @@
-# MaratonaDiscoveryEd1
+# Maratona Discovery Ed1
